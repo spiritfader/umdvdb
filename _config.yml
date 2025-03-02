@@ -3,11 +3,11 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 collections:
-    understanding-your-umd-roms:
+    umd-roms:
       permalink: "/:collection/:path"
       output: true
 
 just_the_docs:
   collections:
-    understanding-your-umd-roms:
-      name: Understanding your UMD-ROMs
+    umd-roms:
+      name: UMD-ROMs
