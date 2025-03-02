@@ -2,7 +2,6 @@
 title: Identifying Ringcodes in your UMD-ROMs
 layout: default
 nav_order: 1
-has_toc: false
 ---
 
 # Identifying Ringcodes in your UMD-ROMs

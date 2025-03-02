@@ -4,7 +4,7 @@ color_scheme: dark
 
 collections:
     Understanding your UMD-ROMs:
-    permalink: /:collection/:path/
+    permalink: /:path
     output: true
 
 just_the_docs:
