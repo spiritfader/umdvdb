@@ -23,7 +23,7 @@ These are all perfectly normal questions to ask yourself. It isn't like the mean
 As it turns out, ringcodes serve to identify the disc's origins from uniquely the disc itself, to identifying the facility that the disc itself was mastered in, to the specific machine that pressed the disc itself. If you've ever wondered, you've come to the correct place. 
 
 As an example, here's the backside of a UMD-ROM disc. These are ringcodes.
-<p align=left><img src="assets/full-disc.png" alt="Backside of UMD-ROM disc" style="max-width:50%;"></p> 
+<p align=left><img src="assets/full-disc.png" alt="Backside of UMD-ROM disc" style="max-width:75%;"></p> 
 
 Unfortunately, due to how small ringcodes can be, reading and trying to discern what they are can be very tricky to the unaided eye. However, you do **NOT** need to remove your disc from the UMD housing to read them. If you have trouble identifying ringcodes for yourself due to their smaller size, consider purchasing some sort of magnification device.
 Here are some recommended options that I find work exceptionally well. 
@@ -67,7 +67,7 @@ I've highlighted each layer's corresponding ringcodes in a different color, mark
 - Outer/Layer 1 = **<span style="color:#ff0000">RED</span>**
 - Inner/Layer 2 = **<span style="color:#00ddff">LIGHT BLUE</span>**
 
-<p align=left><img src="assets/full-disc-layer-highlight.png" alt="UMD-ROM disc with layers highlighted" style="max-width:50%;"></p> 
+<p align=left><img src="assets/full-disc-layer-highlight.png" alt="UMD-ROM disc with layers highlighted" style="max-width:70%;"></p> 
 
 Knowing this is incredibly vital to properly notating ringcodes, as you must know which layer the ringcodes belong to.
 <br>
@@ -84,14 +84,14 @@ As these codes can generally represent a number of specific, no part of this seq
 
 For this specific example disc, we have the UMD-ROM for the UMD-Video - Batman The Movie
 
-<p align=left><img src="assets/zoomed-3.png" alt="Layer 2 mastering code" style="max-width:50%;"></p> 
+<p align=left><img src="assets/zoomed-3.png" alt="Layer 2 mastering code" style="max-width:70%;"></p> 
 
 The mastering code as listed in this photo would be:
 ```sh
 UVDL-005290B1   3
 ``` 
 
-<p align=left><img src="assets/zoomed-3-highlight.png" alt="Layer 2 mastering code highlighted in green" style="max-width:50%;"></p> 
+<p align=left><img src="assets/zoomed-3-highlight.png" alt="Layer 2 mastering code highlighted in green" style="max-width:70%;"></p> 
 
 For further reference purposes, i've highlighted this layer 2 mastering code in **<span style="color:#00ff2e">LIGHT GREEN</span>**
 <br>
@@ -104,13 +104,13 @@ The **Source ID (SID)**, was initially created in 1994 by the **International Fe
 
 The Mastering SID itself is represented with the abbreviation of the International Federation of the Phonographic Industry, **IFPI**, followed by an **L**, and finally a combination of 3-4 numbers. The numbers rare unique to the specific plant that manufactured/pressed the disc itself and essentially a form of serial number. All mastering SIDs will begin with ``IFPI L``
 
-<p align=left><img src="assets/zoomed-2.png" alt="Layer 1 mastering SID" style="max-width:50%;"></p> 
+<p align=left><img src="assets/zoomed-2.png" alt="Layer 1 mastering SID" style="max-width:70%;"></p> 
 
 For this specific disc, example, the mastering SID is ``IFPI L332`` which corresponds to the **Sony DACD Mastering Facility** located in USA. 
 
 For all future reference in this document, the mastering SID will be highlighted in **<span style="color:#006bff">BLUE</span>** to help further distinguish it from the rest.
 
-<p align=left><img src="assets/zoomed-2-highlighted.png" alt="Layer 1 mastering SID highlighted in " style="max-width:50%;"></p> 
+<p align=left><img src="assets/zoomed-2-highlighted.png" alt="Layer 1 mastering SID highlighted in " style="max-width:70%;"></p> 
 <br>
 
 ## Toolstamp
@@ -121,7 +121,7 @@ In many cases you will find one of the layer toolstamps printed backwards to how
 
 The toolstamp **A02** will be highlighted in **<span style="color:#af00ff">PURPLE</span>** for the remainder of this document. 
 
-<p align=left><img src="assets/zoomed-2-highlighted.png" alt="Layer 1 toolstamp printed in reverse" style="max-width:50%;"></p> 
+<p align=left><img src="assets/zoomed-2-highlighted.png" alt="Layer 1 toolstamp printed in reverse" style="max-width:70%;"></p> 
 <br>
 
 ## Mould SID
@@ -134,21 +134,21 @@ As an example of where one would find the mould SID and how difficult they can b
 
 This is what a mould SID looks like (from the UMD-Music Metallica release)
 
-<p align=left><img src="assets/mould-sid.png" alt="Mould SID Zoomed In" style="max-width:50%;"></p> 
+<p align=left><img src="assets/mould-sid.png" alt="Mould SID Zoomed In" style="max-width:70%;"></p> 
 
 **IFPI 944D** is what it appears to be, but it's hard to be sure. This is already extremely magnified, but it was taken through the shell. Removing the shell to read the mould SID can in some circumstances make it easier to see (more on this in another section.)
 
 These next photos will just be me zooming out so you can get an idea of how hard they are to see.
 
-<p align=left><img src="assets/mould-sid-zoomed-out-1.png" alt="Mould SID Zoomed Out" style="max-width:50%;"></p> 
+<p align=left><img src="assets/mould-sid-zoomed-out-1.png" alt="Mould SID Zoomed Out" style="max-width:70%;"></p> 
 
 Still see it?
 
-<p align=left><img src="assets/mould-sid-zoomed-out-2.png" alt="Mould SID Zoomed Out More" style="max-width:50%;"></p> 
+<p align=left><img src="assets/mould-sid-zoomed-out-2.png" alt="Mould SID Zoomed Out More" style="max-width:70%;"></p> 
 
 How about now?
 
-<p align=left><img src="assets/mould-sid-zoomed-out-3.png" alt="Mould SID Zoomed Out Most" style="max-width:50%;"></p> 
+<p align=left><img src="assets/mould-sid-zoomed-out-3.png" alt="Mould SID Zoomed Out Most" style="max-width:70%;"></p> 
 
 Hopefully you get the idea. Identifying mould SIDs can be a pain. If you want to try your hand, be my guest. 
 
@@ -172,11 +172,11 @@ We'll log the ringcodes in a way that respects their location, by disclosing Lay
 
 To begin logging the ringcodes for this disc, we'll first determine whether or not it is a single or dual layer disc. 
 
-<p align=left><img src="assets/full-disc.png" alt="Backside of UMD-ROM disc" style="max-width:50%;"></p>
+<p align=left><img src="assets/full-disc.png" alt="Backside of UMD-ROM disc" style="max-width:70%;"></p>
 
 Because we see codes written on both outer and inner rings, we know this is a **Dual Layer** UMD-ROM.
 
-<p align=left><img src="assets/full-disc-layer-highlight.png" alt="UMD-ROM disc with layers highlighted" style="max-width:50%;"></p> 
+<p align=left><img src="assets/full-disc-layer-highlight.png" alt="UMD-ROM disc with layers highlighted" style="max-width:70%;"></p> 
 
 With all the ringcodes presented, we'll write them down as follows:
 
@@ -193,7 +193,7 @@ With all the ringcodes presented, we'll write them down as follows:
   - ``[Mould SID]``
 
 <br>
-<p align=left><img src="assets/full-disc-layer-code-highlight.png" alt="UMD-ROM disc with ringcodes highlighted" style="max-width:50%;"></p> 
+<p align=left><img src="assets/full-disc-layer-code-highlight.png" alt="UMD-ROM disc with ringcodes highlighted" style="max-width:70%;"></p> 
 
 This discs ringcodes would be written as such:
 
