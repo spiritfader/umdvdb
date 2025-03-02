@@ -1,6 +1,6 @@
 ---
 title: Identifying Ringcodes in your UMD-ROMs
-layout: home
+layout: default
 nav_order: 1
 has_toc: false
 permalink: /ringcodes
