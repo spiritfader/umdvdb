@@ -102,11 +102,11 @@ The mastering SID exists as a way to identify and trace all optical discs back t
 
 The **Source ID (SID)**, was initially created in 1994 by the **International Federation of the Phonographic Industry (IFPI)** as a way to combat disc piracy and allow for a finer level of quality control to disc manufacturing itself. As UMD-ROMs are a form of optical media, they are no exception to this policy and as such are printed with Mastering and Mould SIDs (we'll get to the latter further down this document, [here](#mould-sid).)
 
-The Mastering SID itself is represented with the abbreviation of the International Federation of the Phonographic Industry, **IFPI**, followed by an **L**, and finally a combination of 3-4 numbers. The numbers rare unique to the specific plant that manufactured/pressed the disc itself and essentially a form of serial number. All mastering SIDs will begin with ``IFPI L``
+The Mastering SID itself is represented with the abbreviation of the International Federation of the Phonographic Industry, **IFPI**, followed by an **L**, and finally a combination of 3-4 letters or numbers. The numbers rare unique to the specific plant that manufactured/pressed the disc itself and essentially a form of serial number. All mastering SIDs will begin with ``IFPI L``
 
 <p align=left><img src="assets/zoomed-2.png" alt="Layer 1 mastering SID" style="max-width:70%;"></p> 
 
-For this specific disc, example, the mastering SID is ``IFPI L332`` which corresponds to the **Sony DACD Mastering Facility** located in USA. 
+For this specific disc, example, the mastering SID is ``IFPI L332`` which corresponds to an American **Sony DADC Mastering Facility**. 
 
 For all future reference in this document, the mastering SID will be highlighted in **<span style="color:#006bff">BLUE</span>** to help further distinguish it from the rest.
 
