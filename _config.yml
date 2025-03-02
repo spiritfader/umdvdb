@@ -4,7 +4,7 @@ color_scheme: dark
 
 collections:
     understanding-your-umd-roms:
-      permalink: "/:collections/:path"
+      permalink: "/:collection/:path"
       output: true
 
 just_the_docs:
