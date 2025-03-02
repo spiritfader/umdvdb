@@ -4,13 +4,10 @@ color_scheme: dark
 
 collections:
     Understanding your UMD-ROMs:
-    permalink: /:path
-    output: true
+      permalink: "/:collection/:path/"
+      output: true
 
 just_the_docs:
   collections:
     Understanding your UMD-ROMs:
       name: Understanding your UMD-ROMs
-      nav_fold: true
-      nav_exclude: false
-      search_exclude: false

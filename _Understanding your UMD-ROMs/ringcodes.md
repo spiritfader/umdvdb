@@ -1,7 +1,6 @@
 ---
-title: Identifying Ringcodes in your UMD-ROMs
+title: Identifying Ringcodes
 layout: default
-nav_order: 1
 ---
 
 # Identifying Ringcodes in your UMD-ROMs
