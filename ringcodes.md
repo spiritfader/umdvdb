@@ -180,7 +180,7 @@ Because we see codes written on both outer and inner rings, we know this is a **
 
 With all the ringcodes presented, we'll write them down as follows:
 
-- ``Layer 2 (Inner):``
+- ``Layer 1 (Outer):``
   - ``[Mastering Code]``
   - ``[Mastering SID]``
   - ``[Toolstamp]``
@@ -197,9 +197,7 @@ With all the ringcodes presented, we'll write them down as follows:
 
 This discs ringcodes would be written as such:
 
-With all the ringcodes presented, we'll write them down as follows:
-
-- ``Layer 2 (Inner):``
+- ``Layer 1 (Outer):``
   - ``UVDL-005290A1   3``
   - ``IFPI L332``
   - ``A02``
